@@ -21,7 +21,7 @@
           <li>
             <h3>finally known about css</h3>
             <img src="3 - html css.jpeg" width="40%" height:"40%"/><br>
-               <figcation style=>mgetting better but wheres the javascript?</figcation>
+               <figcation style=>getting better but wheres the javascript?</figcation>
           </li><br>
        </ul>
       </div>
