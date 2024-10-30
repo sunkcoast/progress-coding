@@ -9,14 +9,17 @@
       <div class="container">
         <ul> 
           <li>
-            <img src="1 - basic.png" class="img1"/>
-          </li>
+            <h3>first time coding</h3>
+            <img src="1 - basic.png" width="40%" height:"40%"/>
+          </li><br>
           <li>
-            <img src="2 - html.jpeg" class="img2"/>
-          </li>
+            <h3>another update with html</h3>
+            <img src="2 - html.jpeg" width="40%" height:"40%"/>
+          </li><br>
           <li>
-            <img src="3 - html css.jpeg" class="img3"/>
-          </li>
+            <h3>finally known about css</h3>
+            <img src="3 - html css.jpeg" width="40%" height:"40%"/>
+          </li><br>
        </ul>
       </div>
     </body>
