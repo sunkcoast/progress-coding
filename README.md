@@ -1,5 +1,5 @@
-<h1>progress coding (field report)</h1><br>
-
+<h1>progress coding (field report)</h1>
+    <p>due to certain circumstances, I am putting my note here in case I cannot access my computer</p><br>
 
 <html>
     <head>
