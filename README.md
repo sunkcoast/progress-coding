@@ -11,7 +11,7 @@
           <li>
             <h3>first attempt coding</h3>
             <img src="1 - basic.png" width="40%" height:"40%"/><br>
-              <figcation style=>the code looks so awful</figcation>
+              <figcation style=>its more like ms word than a code</figcation>
           </li><br>
           <li>
             <h3>another update with html</h3>
