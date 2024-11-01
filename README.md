@@ -23,6 +23,11 @@
             <img src="3 - html css.jpeg" width="40%" height:"40%"/><br>
                <figcation style=>getting better but wheres the javascript?</figcation>
           </li><br>
+          <li>
+            <h3>changine some fonts for better looks</h3>
+            <img src="4 - html css font width="40%" height:"40%"/><br>
+               <figcation style=>need more image background / icon</figcation>
+          </li><br>
        </ul>
       </div>
     </body>
