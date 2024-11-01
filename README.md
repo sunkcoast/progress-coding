@@ -25,7 +25,7 @@
           </li><br>
           <li>
             <h3>changine some fonts for better looks</h3>
-            <img src="4 - html css.jpeg" font width="40%" height:"40%"/><br>
+            <img src="4 - html css font.jpg" font width="40%" height:"40%"/><br>
                <figcation style=>need more image background / icon</figcation>
           </li><br>
        </ul>
